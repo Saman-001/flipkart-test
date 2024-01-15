@@ -17,4 +17,4 @@ Werkzeug==0.16.0
 selenium<4.10
 requests
 pymongo[srv]
-numpy==1.21.2
+numpy
