@@ -29,5 +29,5 @@ By following these steps, you can set up a virtual environment, download the Chr
 
 ## And there you go Enjoy the Code
 
-If face any diffculties in the mentioned code or you want to add something please contact at the mentioned Email ID:
+If you face any diffculties in the mentioned code or you want to add something please contact at the mentioned Email ID:
 samanthakur03@gmail.com
